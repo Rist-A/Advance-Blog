@@ -1,7 +1,7 @@
 # 🌐 Modern Blog Platform
 
 A sleek, full-stack blogging platform that blends aesthetics with functionality. Built with **React.js**, **Node.js**, and **PostgreSQL**, this application allows users to create, interact with, and manage content in real-time while offering a visually engaging and secure user experience. The platform also includes admin tools, AI features, and a modern authentication system.
-🔴 Live Demo (YouTube)
+🔴 [Live Demo] (https://www.youtube.com/watch?v=JuhjbAP_cNU)
 
 ---
 
